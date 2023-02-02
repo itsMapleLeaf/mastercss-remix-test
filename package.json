@@ -8,7 +8,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@master/css": "^1.37.8",
+    "@master/css": "2.0.0-beta.105",
     "@master/normal.css": "2.0.0-beta.84",
     "@remix-run/node": "^1.12.0",
     "@remix-run/react": "^1.12.0",
